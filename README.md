@@ -1,6 +1,6 @@
 # case_study_national_hospital
 
-## CASE STUDY - NATIONAL HOSPITAL
+## NATIONAL HOSPITAL
 
 ## Background
 National Hospital, a leading healthcare institution, is dedicated to the continual enhancement of patient care through innovative approaches.
@@ -20,7 +20,7 @@ ERD (OLTP)
 
 ## Task pointers
 ### To meet the hospital's objective. 
-#### Consider the following tasks
+ - Consider the following tasks
 1. ﻿﻿﻿Design a dimensional data model (OLAP) for the hospital
 2. ﻿﻿﻿Load the given data to a data lake/blob storage on Azure cloud
 3. ﻿﻿﻿Create a Datawarehouse/database with two Schema - STG and EDW
